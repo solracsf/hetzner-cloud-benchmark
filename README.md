@@ -129,3 +129,27 @@ https://browser.geekbench.com/v6/cpu/524233
 | Single-Core Score | Multi-Core Score |
 |-------------------|------------------|
 | 1183              | 3711             |
+
+# CX41
+
+### CPU Information
+
+| Name                          | Intel Xeon Processor (Skylake, IBRS)        |
+|-------------------------------|---------------------------------------------|
+| Topology                      | 1 Processor, 4 Cores                        |
+| Identifier                    | GenuineIntel Family 6 Model 85 Stepping 4   |
+| Base Frequency                | 2.10 GHz                                    |
+| L1 Instruction Cache          | 32.0 KB x 4                                 |
+| L1 Data Cache                 | 32.0 KB x 4                                 |
+| L2 Cache                      | 4.00 MB x 4                                 |
+| L3 Cache                      | 16.0 MB                                     |
+
+### Memory Information
+Size: 15.3 GB
+
+### Geekbench score
+[https://browser.geekbench.com/v6/cpu/524233](https://browser.geekbench.com/v6/cpu/524400)
+
+| Single-Core Score | Multi-Core Score |
+|-------------------|------------------|
+| 1108              | 3330             |
