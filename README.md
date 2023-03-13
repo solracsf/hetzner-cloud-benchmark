@@ -1,7 +1,7 @@
 # Hetzner Cloud Instances benchmarks
 ![Geekbench](https://www.geekbench.com/img/rosedale/logo-light.svg)
 
-Geekbench (6) benchmarks for Hetzner Cloud instances
+[Geekbench](https://www.geekbench.com/) (6) benchmarks for Hetzner Cloud instances run on **March, 2023**
 
 > Geekbench 6 measures your processor's single-core and multi-core power, for everything from checking your email to taking a picture to playing music, or all of it at once. Geekbench 6's CPU benchmark measures performance in new application areas including Augmented Reality and Machine Learning, so you'll know how close your system is to the cutting-edge.
 
@@ -105,3 +105,27 @@ https://browser.geekbench.com/v6/cpu/523799
 | Single-Core Score | Multi-Core Score |
 |-------------------|------------------|
 | 1099              | 1929             |
+
+# CPX31
+
+### CPU Information
+
+| Name                          | AMD EPYC Processor                          |
+|-------------------------------|---------------------------------------------|
+| Topology                      | 1 Processor, 4 Cores                        |
+| Identifier                    | AuthenticAMD Family 23 Model 49 Stepping 0  |
+| Base Frequency                | 2.50 GHz                                    |
+| L1 Instruction Cache          | 32.0 KB x 4                                 |
+| L1 Data Cache                 | 32.0 KB x 4                                 |
+| L2 Cache                      | 512 KB x 4                                  |
+| L3 Cache                      | 16.0 MB                                     |
+
+### Memory Information
+Size: 7.58 GB
+
+### Geekbench score
+https://browser.geekbench.com/v6/cpu/524233
+
+| Single-Core Score | Multi-Core Score |
+|-------------------|------------------|
+| 1183              | 3711             |
